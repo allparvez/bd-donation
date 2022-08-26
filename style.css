@@ -1,0 +1,179 @@
+ *{
+   margin: 0;
+   padding: 0;
+   font-family: 'Roboto', sans-serif;
+font-family: 'Roboto Condensed', sans-serif;
+
+ }
+ body p{
+  font-weight: 5px;
+ }
+ #header{
+   height: 500px;
+   background-image: url(images/donation41550x660.jpg);
+   background-repeat: no-repeat;
+ }
+ .header-box{
+   color: rgb(241, 246, 242);
+   width: 50%;
+   text-align: center;
+   padding: 200px 360px;
+ }
+  
+ .body-box{
+   color: rgb(241, 246, 242);
+   width: 70%;
+   text-align: center;
+   /* padding: 200px 220px; */
+  padding-top: 70px;
+ }
+ .body-sec{
+  width: 78%;
+  padding-left: 330px;
+ }
+ .header-box a{
+   text-decoration: none;
+   color: aliceblue;
+   /* background-color: rgb(190, 171, 4); */
+   
+ }
+ .ancor-button{
+   width: 120px;
+   height: 30px;
+   background-color: rgb(192, 115, 14);
+   margin-top: 30px;
+   
+   border-radius: 4px;
+
+ }
+ .text-color h1{
+   color: rgb(22, 19, 16);
+ }
+  .text-color p{
+   color: rgb(88, 91, 91);
+  }
+  .more-amount{
+   margin-top: 100px;
+  }
+   .more-amount h1{
+display: inline;
+border: 2px solid green;
+padding: 30px;
+margin:  10px;
+font-size: 30px;
+   }
+   #input-amout{
+      border: none;
+      border-bottom: 1px solid black;
+      width: 500px;
+      text-align: center;
+   }
+   .donate-amount{
+      text-decoration: none;
+      color: aliceblue;
+  
+   }
+   .sub-amount{
+    margin-left: 200px;
+    width: 120px;
+   height: 30px;
+   background-color: rgb(192, 115, 14);
+   border-radius: 4px;
+   margin-top: 10px;
+  margin-left: 190px;
+    
+   }
+   .input-box{
+    width: 50%;
+    margin: 155px;
+   }
+   #donate-content{
+    white-space: 90%;
+    margin-left: 9%;
+    margin-top: 250px;
+   }
+   #give-box{
+    width: 40%;
+    text-align: center;
+    margin-left: 340px;
+    margin-bottom: 50px;
+   }
+   .more-donate{
+    float: left;
+    width: 300px;
+    height: 240px;
+    padding: 30px;
+    margin: 30px;
+    border-radius: 5px;
+    
+    
+   }
+
+  #first-bg{
+background-color: rgb(194, 194, 163);
+  }
+  #second-bg{
+    background-color: rgb(90, 68, 68);
+  }
+  #third-bg{
+    background-color: rgb(93, 121, 85);
+  }
+   .more-donate img{
+    margin-bottom: 30px;
+   }
+   #donation-container{
+   
+   }
+#subscribe-container{
+  width: 60%;
+  margin-top: 500px;
+  margin: 20%;
+}
+.get-update{
+  text-align: center;
+  margin-top: 100px;
+}
+
+#input-email{
+  
+
+  width: 700px;
+  height: 150px;
+  background-color: blanchedalmond;
+  margin-left: 100px;
+  margin-top: 50px;
+}
+.form-email{
+  margin-left: 200px;
+  
+
+  padding-top: 60px;
+}
+.form-email input{
+  background-color: rgb(218, 216, 215);
+  border: none;
+  width: 200px;
+  height: 30px;
+  
+}
+.form-email button{
+  background-color: rgb(68, 160, 209);
+  border: none;
+  height: 30px;
+  border-radius: 0 5px 5px 0;
+  padding: 5px 20px;
+  margin-left:-4px;
+}
+#footer-contact{
+background-color: rgb(113, 113, 112);
+}
+.footer-box{
+ text-align: center;
+ padding-top: 30px;
+}
+.footer-box img{
+width: 40px;
+margin-top: 20px;
+margin-left: 15px;
+}
+ 
